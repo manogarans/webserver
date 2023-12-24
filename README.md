@@ -41,6 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4. HTML  </h2>
+<h2>5. Java Script </h2>
 </body>
 </html>
 '''
@@ -61,9 +63,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ## servr output
-![serveroutput](https://github.com/manogarans/webserver/assets/139331782/9c8582a5-58bd-4d76-944f-395a6f611dd7)
+![sever output ex 01](https://github.com/manogarans/webserver/assets/139331782/ae10b24c-6757-4214-b2b6-19bb0cc6d068)
+
 ## client output
-![clientoutput](https://github.com/manogarans/webserver/assets/139331782/f7bce302-0e70-417c-8a06-172fd31e147e)
+![client output ex 01](https://github.com/manogarans/webserver/assets/139331782/d8caf020-8723-4497-a6f8-1b16636d80bb)
+
 
 ## RESULT:
 The program is executed succesfully
